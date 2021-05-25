@@ -1,8 +1,8 @@
-## Тестовое задание для компании "Амплитуда"
+# Тестовое задание для компании "Амплитуда"
 
-# Написать php-скрипт для редиректов:
+## Написать php-скрипт для редиректов:
 
-# 1) для следующих страниц:
+## 1) для следующих страниц:
 * http://site/diski_lipetsk	>	http://site/diski,
 * http://site/shiny_lipetsk	>	http://site/shiny,
 * http://site/akkumuljatory_lipetsk	>	http://site,
@@ -29,11 +29,11 @@
 * http://site/blog/dostavka-shin-diskov-akb-do-mesta	>	http://site/news/dostavka-shin-diskov-akb/,
 * http://site/fotogalereya	>	http://site/o-magazine/
 
-# 2) редирект с "заглавных букв" для всех дирректорий
+## 2) редирект с "заглавных букв" для всех дирректорий
 например:
 	http://site/O-MAGAZINE/ > http://site/o-magazine/
 
 
-# 3) редирект c "/index.php" на "/" для всех дирректорий
+## 3) редирект c "/index.php" на "/" для всех дирректорий
 например:
 	http://site/index.php > http://site/
